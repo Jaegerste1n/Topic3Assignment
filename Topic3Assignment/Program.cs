@@ -57,6 +57,11 @@ namespace Topic3Assignment
              
             Console.WriteLine("The area of the circle is " + area + ".");
 
+            int smallNumber = 13;
+            double bigNumber = 47.5;
+            double result = smallNumber * bigNumber;
+
+            Console.WriteLine("The answer is " + result + ".");
 
         }
     }
